@@ -1,0 +1,15 @@
+{
+  "name": "djangoProject",
+  "version": "1.0.0",
+  "dependencies": {
+    "name": "djangoProject",
+    "type": "python",
+    "request": "launch",
+    "program": "${workspaceFolder}/manage.py",
+    "args": [
+      "runserver"
+    ],
+    "django": true
+
+  }
+}
